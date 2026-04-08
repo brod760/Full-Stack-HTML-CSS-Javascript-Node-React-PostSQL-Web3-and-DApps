@@ -1,0 +1,32 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+
+/* Write your CSS below, don't change the rules above. */
+
+p{
+  color:red;
+}
+/* Uses the attribute selector to change the Paragraphs font to red */
+
+.note{
+  font-size: 20px;
+}
+/* Uses Class selector to change the .note */ 
+
+#id-selector-demo{
+  color:green;
+}
+/* Uses the ID-SELECTOR-DEMO id to be able select the elments */
+
+li[value="4"]{
+  color:blue;
+}
+/* Checks the LIST for elements with the value = 4 */
+
+*{
+  text-align: center;
+}
+/* The Astrict means select all  */

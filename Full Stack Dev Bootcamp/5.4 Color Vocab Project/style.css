@@ -1,0 +1,29 @@
+/*Using Element Selector to make changes to all the images*/
+img {
+    width: 200px;
+    height: 200px;
+}
+/*Using ID #selector */
+#red{
+    color:red;
+}
+
+#blue{
+    color:blue
+}
+
+#orange{
+    color:orange
+}
+
+#green{
+    color:green;
+}
+
+#yellow{
+    color:yellow
+}
+
+.color-title {
+    font-weight: normal;
+}
